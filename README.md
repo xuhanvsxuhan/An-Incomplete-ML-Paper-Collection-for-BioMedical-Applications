@@ -69,17 +69,14 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+| Interleaved TextImage Deep Mining on a Large-Scale Radiology Database for Automated Image Interpretation | 2016 | JMLR |HC Shin/RM. Summers@NIH|
 
 ## Q&A
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+| Disease Inference from Health-Related Questions via Sparse Deep Learning | 2015 | | |
+|Reliable Medical Diagnosis from Crowdsourcing- Discover Trustworthy Answers from Non-Experts| 2017 | | |
 
 ## Readmission Rate
 
