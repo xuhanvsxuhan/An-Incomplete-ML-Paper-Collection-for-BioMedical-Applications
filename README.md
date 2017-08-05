@@ -23,14 +23,16 @@ This is a repository that collects machine learning papers on biomedical applica
 ## Phenotype
 
 |Title|Year|Journal|Team|
-|---|---|---|---|---|
-|1|1|1|1|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
+|Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## NER/RE/KG
 
 |Title|Year|Journal|Team|
-|---|---|---|---|---|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
@@ -38,12 +40,16 @@ This is a repository that collects machine learning papers on biomedical applica
 ## Medical Concept Representation
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## Cancer
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
