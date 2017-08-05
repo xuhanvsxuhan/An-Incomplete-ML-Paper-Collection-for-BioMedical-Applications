@@ -85,7 +85,7 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+| A comparison of models for predicting early hospital readmissions| 2015 | Journal of Biomedical Informatics |Joseph Futoma/Joseph Lucas@DukeU|
+|Predicting 30-Day All-Cause Readmissions from Hospital Inpatient Discharge Data| 2016 | |Chengliang Yang/Sanjay Ranka@FloridaU|
+|Predictive Modeling of Hospital Readmission Rates using Electronic Medical Record-Wide Machine Learning- A Case-Study using Mount Sinai Heart Failure Cohort| 2017 ||Icahn School of Medicine at Mount Sinai |
 
