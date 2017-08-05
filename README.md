@@ -28,7 +28,6 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
@@ -36,7 +35,6 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
@@ -45,9 +43,9 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+| Learning Low-Dimensional Representations of Medical Concepts | 2016 | JAMIA |Y Choi/David Sontag@NYU|
+|Multi-layer Representation Learning for Medical Concepts| 2016 | KDD |Edward Choi/Jimeng Sun@GIT|
+|Using Deep Learning Towards Biomedical Knowledge Discovery| 2017 |  |  |
 
 ## Cancer
 
