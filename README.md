@@ -56,24 +56,32 @@ This is a repository that collects machine learning papers on biomedical applica
 ## ECG
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## Image Interpretation
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## Q&A
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## Readmission Rate
 
 |Title|Year|Journal|Team|
+|---|---|---|---|
+| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
