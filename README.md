@@ -53,17 +53,14 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+|Biomedical Text Mining and its Applications in Cancer Research| 2013 | Journal of Biomedical Informatics | |
+|Text Mining of Cancer-Related Information- Review of Current Status and Future Directions| 2014 | | |
 
 ## ECG
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-| What Can Natural Language Processing do For Clinical Decision Support? | 2009 | Journal of Biomedical Informatics |Dina Fushman@NIH|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+| Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks | 2017 |  |Pranav Rajpurkar/Andrew Y. Ng@Stanford|
 
 ## Image Interpretation
 
