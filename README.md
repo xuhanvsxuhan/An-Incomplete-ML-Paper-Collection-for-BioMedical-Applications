@@ -24,7 +24,7 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|---|
-|Title|Year|Journal|Team|
+|1|1|1|1|
 |Title|Year|Journal|Team|
 
 ## NER/RE/KG
