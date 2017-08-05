@@ -23,12 +23,14 @@ This is a repository that collects machine learning papers on biomedical applica
 ## Phenotype
 
 |Title|Year|Journal|Team|
+|---|---|---|---|---|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
 ## NER/RE/KG
 
 |Title|Year|Journal|Team|
+|---|---|---|---|---|
 |Title|Year|Journal|Team|
 |Title|Year|Journal|Team|
 
