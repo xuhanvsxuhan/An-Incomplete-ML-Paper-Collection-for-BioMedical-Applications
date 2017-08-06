@@ -35,8 +35,18 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+|A Study of Active Learning Methods for Named Entity Recognition in Clinical Text|2015|Journal of Biomedical Informatics|YuKun Chen/Hua Xu@UTHealth|
+|A Study of Neural Word Embedding for Named Entity Recognition in Clinical Text|2015||Yonghui Wu/Hua Xu@UTHealth|
+|Named Entity Recognition in Chinese Clinical Text Using Deep Neural Network|2015|IMIA|Yonghui Wu/Hua Xu@UTHealth|
+|Unsupervised Biomedical Named Entity Recognition- Experiments with Clinical and Biological Texts|2013|Journal of Biomedical Informatics|Journal of Biomedical Informatics|
+|Automatic Extraction of Relations Between Medical Concepts in Clinical Texts|2011|JAMIA||
+|Detecting Concept Relations in Clinical Text- Insights from a State-of-the-Art Model|2013|Journal of Biomedical Informatics||
+|Extraction of Medical Term Relations from Text|2008|||
+|Medical Relation Extraction with Maniflod Models|2014|ACL|Chang Wang/James Fan@IBM Watson|
+|Relation Extraction from Clinical Texts using Domain Invariant Convolutional Neural Network|2016|ACL||
+|Learning a Health Knowledge Graph from Electronic Medical Records|2017|Scientific Reports|NYU/MIT|
+|Extracting Clinical Entities and their Assertions from Chinese Electronic Medical Records Based on Machine Learning|2016| | |
+|Extracting Information from Textual Documents in the Electronic Health Record- A Review of Recent Research|2008| | |
 
 
 ## Medical Concept Representation
