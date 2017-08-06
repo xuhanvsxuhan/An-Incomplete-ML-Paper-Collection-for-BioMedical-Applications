@@ -6,13 +6,13 @@ This is a repository that collects machine learning papers on biomedical applica
 # Table of Contents
 1. [Review](#review)
 2. [Phenotype](#phenotype)
-3. [NER/RE/KG](#nER/RE/KG)
-4. [Medical Concept Representation](#medical-Concept-Representation)
+3. [NER/RE/KG](#ner/re/kg)
+4. [Medical Concept Representation](#medical-concept-representation)
 5. [Cancer](#cancer)
-5. [ECG](#eCG)
-5. [Image Interpretation](#image-Interpretation)
-5. [Q&A](#q&A)
-5. [Readmission Rate](#readmission-Rate)
+5. [ECG](#ecg)
+5. [Image Interpretation](#image-interpretation)
+5. [Q&A](#q&a)
+5. [Readmission Rate](#readmission-rate)
 
 ## Review
 
