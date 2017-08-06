@@ -28,8 +28,31 @@ This is a repository that collects machine learning papers on biomedical applica
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
-|Title|Year|Journal|Team|
-|Title|Year|Journal|Team|
+|Deep Patient－ An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records|2016|Scientific Reports|Riccardo Miotto /Joel T. Dudley@Icahn School of Medicine at Mount Sinai|
+|Identification of type 2 diabetes subgroups through topological analysis of patient similarity|2015||Li Li /Joel T. Dudley@Icahn School of Medicine at Mount Sinai|
+|Doctor AI- Predicting Clinical Events via Recurrent Neural Networks|2016|JMLR|Edward Choi/Jimeng Sun@GIT|
+|Deepr: A Convolutional Net for Medical Records |2017|Journal of Biomedical and Health Informatics||
+|A Comparison of Rule-Based and Deep Learning Models for Patient Phenotyping |2017| | |
+|A Shared Task Involving Multi-Label Classification of Clinical Free Text|2007| | |
+|Condensed Memory Networks for Clinical Diagnostic Inferencing|2017|  |  |
+|Deep Learning for Healthcare Decision Making with EMRs|2014|  |  |
+|Deep Recurrent Neural Networks for Predicting Intraoperative and Postoperative Outcomes and Trends|2017|  |  |
+|Distill Knowledge from Deep Networks with Application to Healthcare Domain|2015|  |Zhengping Che/Yan Liu@University of Southern California|
+|Estimating Patient’s Health State Using Latent Structure Inferred from Clinical Time Series and Text|2017|  |  |
+|Exploiting Convolutional Neural Network for Risk Prediction with Medical Feature Embedding|2017|  |Zhengping Che/Yan Liu@University of Southern California|
+|GRAM－ Graph-Based Attention Model for Healthcare Representation Learning|2017|KDD|Edward Choi/Jimeng Sun
+GIT|
+|Impact of Data Fragmentation across healthcare centers on the accuracy of a high-throughput clinical phenotyping algorithm for specifying subjects With Type 2 Diabetes Mellitus|2012|JAMIA|  |
+|Learning to Diagnose with LSTM Recurrent Neural Networks|2016|ICLR|Zachary C. Lipton/David C. Kale@UCSD|
+|PheKB- a Catalog and Workflow for Creating Electronic Phenotype Algorithms for Transportability|Year|Journal|Team|
+|Predicting Clinical Events by Combining Static and Dynamic Information using Recurrent Neural Networks|2016|  |  |
+|Recurrent Neural Networks for Multivariate Time Series with Missing Values|2016|  |  |
+|Relational Machine Learning for Electronic Health Record-Driven Phenotyping|2014|Journal of Biomedical Informatics|  |
+|RETAIN－ An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism|2016|NIPS|Edward Choi/Jimeng Sun@GIT|
+|Risk Prediction with Electronic Health Records- A Deep Learning Approach|2015|  |  |
+|Structured Prediction Models for RNN based Sequence Labeling in Clinical Text|2016|EMNLP|  |
+|Temporal Pattern and Association Discovery of Diagnosis Codes Using Deep Learning|2015|  |  |
+|Validation of Electronic Medical Record-Based Phenotyping Algorithm- Results and Lessons Learned from the eMERGE Network|2013|JAMIA|  |
 
 ## NER/RE/KG
 
