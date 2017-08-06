@@ -6,12 +6,12 @@ This is a repository that collects machine learning papers on biomedical applica
 # Table of Contents
 1. [Review](#review)
 2. [Phenotype](#phenotype)
-3. [NER/RE/KG](#ner/re/kg)
+3. [NER-RE-KG](#ner-re-kg)
 4. [Medical Concept Representation](#medical-concept-representation)
 5. [Cancer](#cancer)
 5. [ECG](#ecg)
 5. [Image Interpretation](#image-interpretation)
-5. [Q&A](#q&a)
+5. [QA](#qa)
 5. [Readmission Rate](#readmission-rate)
 
 ## Review
@@ -57,7 +57,7 @@ GIT|
 |Temporal Pattern and Association Discovery of Diagnosis Codes Using Deep Learning|2015|  |  |
 |Validation of Electronic Medical Record-Based Phenotyping Algorithm- Results and Lessons Learned from the eMERGE Network|2013|JAMIA|  |
 
-## NER/RE/KG
+## NER-RE-KG
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
@@ -102,7 +102,7 @@ GIT|
 |---|---|---|---|
 | Interleaved TextImage Deep Mining on a Large-Scale Radiology Database for Automated Image Interpretation | 2016 | JMLR |HC Shin/RM. Summers@NIH|
 
-## Q&A
+## QA
 
 |Title|Year|Journal|Team|
 |---|---|---|---|
