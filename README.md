@@ -1,17 +1,18 @@
 # An-Incomplete-ML-Paper-Collection-for-BioMedical-Applications
 This is a repository that collects machine learning papers on biomedical application.
+
 [Download](http://pan.baidu.com/s/1o8G6Gxs)
 
 # Table of Contents
 1. [Review](#review)
-2. [Phenotype](#Phenotype)
-3. [NER/RE/KG](#NER/RE/KG)
-4. [Medical Concept Representation](#Medical-Concept-Representation)
-5. [Cancer](#Cancer)
-5. [ECG](#ECG)
-5. [Image Interpretation](#Image-Interpretation)
-5. [Q&A](#Q&A)
-5. [Readmission Rate](#Readmission-Rate)
+2. [Phenotype](#phenotype)
+3. [NER/RE/KG](#nER/RE/KG)
+4. [Medical Concept Representation](#medical-Concept-Representation)
+5. [Cancer](#cancer)
+5. [ECG](#eCG)
+5. [Image Interpretation](#image-Interpretation)
+5. [Q&A](#q&A)
+5. [Readmission Rate](#readmission-Rate)
 
 ## Review
 
